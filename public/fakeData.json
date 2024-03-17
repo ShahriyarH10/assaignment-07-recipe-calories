@@ -1,0 +1,180 @@
+{
+    "food": [
+        {
+          "title": "Spaghetti Carbonara",
+          "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and black pepper.",
+          "ingredients": [
+            "200g spaghetti",
+            "100g pancetta or bacon, diced",
+            "2 large eggs",
+            "50g grated Parmesan cheese",
+            "Freshly ground black pepper"
+          ],
+          "time": "Preparation: 10 minutes, Cooking: 10 minutes",
+          "calories": "Calories per serving: 450",
+          "image": "https://example.com/spaghetti_carbonara.jpg"
+        },
+        {
+          "title": "Grilled Salmon",
+          "description": "Delicious and healthy grilled salmon seasoned with lemon, garlic, and herbs.",
+          "ingredients": [
+            "4 salmon fillets",
+            "2 tablespoons olive oil",
+            "1 lemon, sliced",
+            "2 cloves garlic, minced",
+            "Fresh herbs (such as dill or parsley), chopped",
+            "Salt and pepper to taste"
+          ],
+          "time": "Preparation: 5 minutes, Cooking: 10 minutes",
+          "calories": "Calories per serving: 300",
+          "image": "https://example.com/grilled_salmon.jpg"
+        },
+        {
+          "title": "Vegetable Stir-Fry",
+          "description": "A quick and colorful stir-fry packed with assorted vegetables and tofu, seasoned with soy sauce and ginger.",
+          "ingredients": [
+            "2 cups mixed vegetables (such as bell peppers, broccoli, carrots, and snap peas), sliced",
+            "200g firm tofu, cubed",
+            "2 tablespoons soy sauce",
+            "1 tablespoon sesame oil",
+            "1 teaspoon grated ginger",
+            "2 cloves garlic, minced",
+            "Cooked rice for serving"
+          ],
+          "time": "Preparation: 15 minutes, Cooking: 10 minutes",
+          "calories": "Calories per serving: 250",
+          "image": "https://example.com/vegetable_stir_fry.jpg"
+        },
+        {
+          "title": "Chicken Alfredo",
+          "description": "Creamy pasta dish with tender chicken pieces and Parmesan cheese.",
+          "ingredients": [
+            "250g fettuccine pasta",
+            "2 chicken breasts, sliced",
+            "1 cup heavy cream",
+            "1/2 cup grated Parmesan cheese",
+            "2 cloves garlic, minced",
+            "Salt and pepper to taste",
+            "Fresh parsley for garnish"
+          ],
+          "time": "Preparation: 15 minutes, Cooking: 15 minutes",
+          "calories": "Calories per serving: 500",
+          "image": "https://example.com/chicken_alfredo.jpg"
+        },
+        {
+          "title": "Caesar Salad",
+          "description": "Classic salad made with romaine lettuce, croutons, Parmesan cheese, and Caesar dressing.",
+          "ingredients": [
+            "1 head romaine lettuce, chopped",
+            "1 cup croutons",
+            "1/2 cup grated Parmesan cheese",
+            "1/4 cup Caesar dressing",
+            "Salt and pepper to taste"
+          ],
+          "time": "Preparation: 10 minutes",
+          "calories": "Calories per serving: 200",
+          "image": "https://example.com/caesar_salad.jpg"
+        },
+        {
+          "title": "Beef Stir-Fry",
+          "description": "Quick and flavorful beef stir-fry with vegetables and a savory sauce.",
+          "ingredients": [
+            "400g beef sirloin, thinly sliced",
+            "2 cups mixed vegetables (such as bell peppers, broccoli, carrots, and onions), sliced",
+            "3 tablespoons soy sauce",
+            "2 tablespoons oyster sauce",
+            "1 tablespoon sesame oil",
+            "2 cloves garlic, minced",
+            "1 teaspoon grated ginger",
+            "Cooked rice for serving"
+          ],
+          "time": "Preparation: 20 minutes, Cooking: 10 minutes",
+          "calories": "Calories per serving: 400",
+          "image": "https://example.com/beef_stir_fry.jpg"
+        },
+        {
+          "title": "Margherita Pizza",
+          "description": "Classic Italian pizza topped with fresh tomatoes, mozzarella cheese, and basil leaves.",
+          "ingredients": [
+            "1 pre-made pizza crust",
+            "1 cup tomato sauce",
+            "2 cups shredded mozzarella cheese",
+            "2 tomatoes, thinly sliced",
+            "Fresh basil leaves",
+            "Salt and pepper to taste"
+          ],
+          "time": "Preparation: 10 minutes, Cooking: 15 minutes",
+          "calories": "Calories per serving: 350",
+          "image": "https://example.com/margherita_pizza.jpg"
+        },
+        {
+          "title": "Tofu Stir-Fry",
+          "description": "Healthy and flavorful tofu stir-fry with colorful vegetables and a tangy sauce.",
+          "ingredients": [
+            "400g firm tofu, cubed",
+            "2 cups mixed vegetables (such as bell peppers, broccoli, carrots, and snap peas), sliced",
+            "3 tablespoons soy sauce",
+            "2 tablespoons rice vinegar",
+            "1 tablespoon honey",
+            "1 tablespoon sesame oil",
+            "2 cloves garlic, minced",
+            "1 teaspoon grated ginger",
+            "Cooked rice for serving"
+          ],
+          "time": "Preparation: 15 minutes, Cooking: 10 minutes",
+          "calories": "Calories per serving: 280",
+          "image": "https://example.com/tofu_stir_fry.jpg"
+        },
+        {
+          "title": "Caprese Salad",
+          "description": "Simple and refreshing salad made with fresh tomatoes, mozzarella cheese, basil, and balsamic glaze.",
+          "ingredients": [
+            "2 large tomatoes, sliced",
+            "200g fresh mozzarella cheese, sliced",
+            "Fresh basil leaves",
+            "Balsamic glaze",
+            "Salt and pepper to taste"
+          ],
+          "time": "Preparation: 10 minutes",
+          "calories": "Calories per serving: 180",
+          "image": "https://example.com/caprese_salad.jpg"
+        },
+        {
+          "title": "Pasta Primavera",
+          "description": "Light and colorful pasta dish with assorted spring vegetables and a creamy sauce.",
+          "ingredients": [
+            "250g pasta of your choice",
+            "2 cups mixed vegetables (such as cherry tomatoes, asparagus, zucchini, and bell peppers), sliced",
+            "1 cup heavy cream",
+            "1/2 cup grated Parmesan cheese",
+            "2 cloves garlic, minced",
+            "1 tablespoon olive oil",
+            "Salt and pepper to taste",
+            "Fresh parsley for garnish"
+          ],
+          "time": "Preparation: 15 minutes, Cooking: 15 minutes",
+          "calories": "Calories per serving: 380",
+          "image": "https://example.com/pasta_primavera.jpg"
+        },
+        {
+          "title": "Mushroom Risotto",
+          "description": "Creamy and savory risotto made with Arborio rice, mushrooms, and Parmesan cheese.",
+          "ingredients": [
+            "1 cup Arborio rice",
+            "2 cups chicken or vegetable broth",
+            "200g mushrooms, sliced",
+            "1 onion, finely chopped",
+            "2 cloves garlic, minced",
+            "1/2 cup dry white wine",
+            "1/4 cup grated Parmesan cheese",
+            "2 tablespoons butter",
+            "Salt and pepper to taste",
+            "Fresh parsley for garnish"
+          ],
+          "time": "Preparation: 10 minutes, Cooking: 30 minutes",
+          "calories": "Calories per serving: 320",
+          "image": "https://example.com/mushroom_risotto.jpg"
+        }
+    ]
+}
+  

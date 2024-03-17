@@ -75,7 +75,7 @@ function App() {
                   <p>{item.preparing_time}</p>
                   <p>{item.calories}</p>
                   <button onClick={()=> handleDelete(item.recipe_id)}>
-                  <button onClick={() => handleNewCart(item)} className='bg-green-600 px-3 rounded-3xl border-solid border-2 border-green-500'>Preparing</button>
+                  <button onClick={() => handleNewCart(item)} className='bg-green-500 px-3 rounded-3xl border-solid border-2 border-green-500'>Preparing</button>
                   </button>
                   
                 </div>

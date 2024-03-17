@@ -31,7 +31,7 @@ const Recipes = ({foods, handleCart}) => {
                 </div>
             </div>
             
-            <button onClick={() => handleCart(foods)} className='bg-green-600 rounded-3xl p-2 border-solid border-2 border-green-500'>Want to Cook</button>
+            <button onClick={() => handleCart(foods)} className='bg-green-500 rounded-3xl p-2 border-solid border-2 border-green-500'>Want to Cook</button>
         
         </div>
     );

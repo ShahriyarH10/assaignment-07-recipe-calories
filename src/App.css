@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.bg-img {
+    background-image: url(../public/Rectangle\ 1banner.jpg);
+    height: 600px;
+}

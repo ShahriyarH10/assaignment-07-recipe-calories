@@ -47,7 +47,7 @@ function App() {
       </div>
 
       <div className='flex justify-between gap-5 my-10 container mx-auto '>
-        <div className='grid grid-cols-2 gap-5'>
+        <div className='grid gap-5 lg: grid-cols-2'>
           {
             foods.map(fd => <Recipes foods={fd} handleCart={handleCart}></Recipes>)
           }
@@ -94,15 +94,16 @@ function App() {
             <p></p>
           </div>
           <div>
-          {cooking.map((item, index) =>  (
-            <div className='flex justify-between gap-16 space-y-1'>
-              <p>{index + 1}</p>
-              <p>{item.recipe_name}</p>
-              <p>{item.preparing_time}</p>
-              <p>{item.calories}</p>
-            </div>
-          ))}
+            {cooking.map((item, index) =>  (
+              <div className='flex justify-between gap-16 space-y-1'>
+                <p>{index + 1}</p>
+                <p>{item.recipe_name}</p>
+                <p>{item.preparing_time}</p>
+                <p>{item.calories}</p>
+              </div>
+            ))}
           </div>
+          <hr />
         </div>
       </div>
     </>

@@ -2,9 +2,9 @@ import React from 'react';
 
 const Recipes = ({foods, handleCart}) => {
     return (
-        <div className='border-solid border-2 border-gray-400 rounded-lg p-3 space-y-5'>
+        <div className='border-solid border-2 border-gray-400 rounded-lg p-3 space-y-5 w-1/2'>
             
-            <img className='p-10' src={foods.recipe_image} />
+            <img className='p-5 rounded-3xl' src={foods.recipe_image} />
             <h2 className='text-2xl font-bold'>{foods.recipe_name}</h2>
             <p>{foods.short_description}</p>
 

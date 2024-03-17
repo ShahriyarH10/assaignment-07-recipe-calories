@@ -91,7 +91,6 @@ function App() {
             <p>Name</p>
             <p>Time</p>
             <p>Calories</p>
-            <p></p>
           </div>
           <div>
             {cooking.map((item, index) =>  (

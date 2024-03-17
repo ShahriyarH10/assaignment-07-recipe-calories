@@ -17,7 +17,7 @@ const Nav = () => {
 
         <div className='flex justify-evenly gap-5'>
           <input className='border-solid rounded-3xl bg-slate-200' type="text" placeholder='    Search' />
-          <img src="/public/Frame 5profile.svg" alt="" />
+          <img src="/Frame 5profile.svg" alt="" />
         </div>
       </div>
         </div>

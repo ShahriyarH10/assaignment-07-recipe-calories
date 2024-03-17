@@ -10,12 +10,12 @@ const Recipes = ({foods, handleCart}) => {
 
             <hr />
             <div>
-                <h3 className='text-2xl font-bold'>Ingredients</h3>
-                <ol className="">
+                <h3 className='text-xl font-bold'>Ingredients</h3>
+                <ul className='list-disc px-5'>
                   {foods.ingredients.map((ingredient, index) => (
-                    <li key={index}>{index+1}. {ingredient}</li>
+                    <li>  {ingredient}</li>
                   ))}
-            </ol>
+            </ul>
             </div>
 
             <hr />

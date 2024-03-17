@@ -96,6 +96,7 @@ function App() {
           <div>
           {cooking.map((item, index) =>  (
             <div className='flex justify-between gap-16 space-y-1'>
+              <p>{index + 1}</p>
               <p>{item.recipe_name}</p>
               <p>{item.preparing_time}</p>
               <p>{item.calories}</p>

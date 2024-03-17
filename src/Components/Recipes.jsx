@@ -21,12 +21,12 @@ const Recipes = ({foods, handleCart}) => {
             <hr />
             <div className='flex gap-20'>
                 <div className='flex'>
-                    <img src="/src/assets/Frameclock.svg" alt="" /> 
+                    <img src="/public/Frameclock.svg" alt="" /> 
                     <p>{foods.preparing_time}</p>
                 </div>
                 
                 <div className='flex'>
-                    <img src="/src/assets/Framefire.svg" alt="" />
+                    <img src="/public/Framefire.svg" alt="" />
                     <p>{foods.calories}</p>
                 </div>
             </div>
